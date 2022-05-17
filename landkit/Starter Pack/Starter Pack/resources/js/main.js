@@ -1,2 +1,0 @@
-// Feather Icons
-feather.replace();
